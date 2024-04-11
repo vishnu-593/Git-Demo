@@ -1,7 +1,3 @@
-Kallem vamshi krishna reddy
-<<<<<<< HEAD
+ vamshi krishna reddy
 from CMRIT
-=======
-in CMRIT
->>>>>>> feature3
 CSDataScience
